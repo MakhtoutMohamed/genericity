@@ -1,6 +1,6 @@
 # genericity
 
-## the results of the project after completion (add, list, find and delete product, at the end quit the app) :
+#### the results of the project after completion (add, list, find and delete product, at the end quit the app) :
 ![](imgs/1.png)
 ![](imgs/2.png)
 ![](imgs/3.png)
