@@ -1,4 +1,11 @@
 # genericity
+
+## the results of the project after completion (add, list, find and delete product, at the end quit the app) :
+![](imgs/1.png)
+![](imgs/2.png)
+![](imgs/3.png)
+
+
 genericity or generics in java is a way to write code that works with different data types, without duplicating it.
 
 ### instead of writing the same code multiple times for String, Integer, Product, etc., you use a placeholder type, like T, and specify what type it is when u use it.
